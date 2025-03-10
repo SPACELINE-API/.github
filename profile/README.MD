@@ -1,5 +1,8 @@
+<div align=center>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&color=602DF7&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Este+perfil+%C3%A9+destinado+ao+projeto+;API+(Aprendizagem+por+Projetos;Integrados)+%7C+Fatec+-+SJC)](https://git.io/typing-svg)
 
+</div>
 ### Equipe:
 
 | Nome                                  |                                                                                                                                                      GitHub                                                                                                                                                      |
