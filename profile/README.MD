@@ -3,6 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&color=602DF7&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Este+perfil+%C3%A9+destinado+ao+projeto+;API+(Aprendizagem+por+Projetos;Integrados)+%7C+Fatec+-+SJC)](https://git.io/typing-svg)
 
 </div>
+
+
 ### Equipe:
 
 | Nome                                  |                                                                                                                                                      GitHub                                                                                                                                                      |
@@ -20,6 +22,8 @@
 
 
 <br>
+
+<img src="https://github.com/user-attachments/assets/0172c881-902b-4b82-b01a-fa3a1f033c75" alt="Pixel Art" align="right" width="354">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma" height="45" />
