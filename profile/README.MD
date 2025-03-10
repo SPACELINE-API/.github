@@ -19,11 +19,10 @@
 | Yasmin Cristina Padilha       |           [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/yaspadilha)          |
 
 
-
+<img src="https://github.com/user-attachments/assets/0172c881-902b-4b82-b01a-fa3a1f033c75" alt="Pixel Art" align="right" width="354">
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/0172c881-902b-4b82-b01a-fa3a1f033c75" alt="Pixel Art" align="right" width="354">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma" height="45" />
