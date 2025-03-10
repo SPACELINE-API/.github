@@ -1,7 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&color=602DF7&center=true&vCenter=true&multiline=true&width=435&lines=Este+perfil+%C3%A9+destinado+ao+projeto+)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&color=602DF7&center=true&vCenter=true&multiline=true&width=435&lines=API+(Aprendizagem+por+Projetos)]
-(https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&color=602DF7&center=true&vCenter=true&width=435&lines=Este+perfil+%C3%A9+destinado+ao+projeto;API+(Aprendizagem+por+Projetos;Integrados)+%7C+Fatec+-+SJC)](https://git.io/typing-svg)
 
 ### Equipe:
 
