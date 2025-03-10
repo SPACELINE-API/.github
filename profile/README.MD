@@ -7,7 +7,7 @@
 
 ### Equipe:
 
-<img src="https://github.com/user-attachments/assets/0172c881-902b-4b82-b01a-fa3a1f033c75" alt="Pixel Art" align="right" width="340">
+<img src="https://github.com/user-attachments/assets/0172c881-902b-4b82-b01a-fa3a1f033c75" alt="Pixel Art" align="right" width="335">
 
 | Nome                                  |                                                                                                                                                      GitHub                                                                                                                                                      |
 | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -26,6 +26,6 @@
 <br>
 
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma" height="45" />
 </div>
