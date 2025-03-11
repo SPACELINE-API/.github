@@ -27,5 +27,5 @@
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma" height="45" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jira,canva,vscode,html,css,js,figma,excel,flask,aws,bootstrap,git,github" height="45" />
 </div>
