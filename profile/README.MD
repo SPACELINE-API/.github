@@ -27,5 +27,5 @@
 
 
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=jira,canva,vscode,html,css,js,figma,excel,flask,aws,bootstrap,git,github" height="45" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=aws,bootstrap,canva,css,figma,flask,git,gh,html,intellij,java,js,jira,ollama,python,vscode" height="45" />
 </div>
