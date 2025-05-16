@@ -11,7 +11,6 @@
 
 | Nome                                  |                                                                                                                                                      GitHub                                                                                                                                                      |
 | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|   André de Lima Gonçalves         |     [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DevAndre9312)              |
 | Gabriel Sarubi Motta Ferreira |      [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielSarubi-7)     |
 | João Álvaro Oliveira Silva              |         [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoAlv4ro)|
 | Julia Roberta Ferreira Prianti                 |         [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/juliaprianti06)        |
