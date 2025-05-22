@@ -26,6 +26,6 @@
 
 
 <div>
-  <img src="https://skills-icons.vercel.app/api/icons?i=aws,bootstrap,canva,css,figma,flask,git,gh,html,intellij,java,js,jira" height="55" />
-  <img src="https://skills-icons.vercel.app/api/icons?i=ollama,python,vscode" height="55" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=git,html,css,bootstrap,canva,figma,python,flask,aws,gh,vscode,js,jira" height="55" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=java,ollama,intellij,excel,maven,jax,mysql" height="55" />
 </div>
