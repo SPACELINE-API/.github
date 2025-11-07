@@ -18,7 +18,7 @@
 | Rafaela da Silva Penafiel Diniz       |           [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/rafaelapenafiel)          |
 | Raul Germano Rosendo de Oliveira Duarte       |           [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Raul-Germano-Rosendo)          |
 | Yasmin Cristina Padilha       |           [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/yaspadilha)          |
-| Pablo Rafael       |           [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Rafa0709)          |
+
 
 
 
